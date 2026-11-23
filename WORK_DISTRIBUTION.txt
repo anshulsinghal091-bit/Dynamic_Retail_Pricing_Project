@@ -1,0 +1,27 @@
+PROJECT WORK DISTRIBUTION – 3 MEMBERS
+
+MEMBER 1: MACHINE LEARNING
+- Inspect and clean retail_price.csv.
+- Explain all 30 columns and select relevant features.
+- Train Random Forest Regression to predict unit_price.
+- Exclude total_price to avoid target leakage.
+- Evaluate using MAE, RMSE and R².
+- Present model results and limitations.
+
+MEMBER 2: DYNAMIC PRICING ALGORITHM
+- Explain demand indicators using qty and customers.
+- Implement demand ratio = qty / customers.
+- Compare demand ratio with the dataset median.
+- Apply bounded multiplier (0.85 to 1.15) to ML base price.
+- Test low, normal and high demand scenarios.
+- Explain that inventory/supply is not explicitly present in the dataset.
+
+MEMBER 3: CRYPTOGRAPHY AND INTEGRATION
+- Implement AES-256-GCM encryption/decryption.
+- Implement SHA-256 fingerprint verification.
+- Demonstrate tamper detection.
+- Integrate the modules in Streamlit.
+- Test application and prepare security explanation.
+
+ALL MEMBERS
+- Contribute to report, presentation, testing and viva preparation.
